@@ -1,0 +1,19 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Caneta BIC Preta",
+            "price": 5.89
+        },
+        {
+            "id": 2,
+            "name": "Notebook Mac Pro",
+            "price": 12234.68
+        },
+        {
+            "id": 3,
+            "name": "Xiaomi Mi A2",
+            "price": 1230.46
+        }    
+    ]
+}
